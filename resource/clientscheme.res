@@ -3000,7 +3000,91 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		// Bolds
+		
+		MeltixBold12
+		{
+			"1"
+			{
+				"name"		"Meltix Bold Demo"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		MeltixBold16
+		{
+			"1"
+			{
+				"name"		"Meltix Bold Demo"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		MeltixBold24
+		{
+			"1"
+			{
+				"name"		"Meltix Bold Demo"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		MeltixBold32
+		{
+			"1"
+			{
+				"name"		"Meltix Bold Demo"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		MeltixBold36
+		{
+			"1"
+			{
+				"name"		"Meltix Bold Demo"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		MeltixBold42
+		{
+			"1"
+			{
+				"name"		"Meltix Bold Demo"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		MeltixBold48
+		{
+			"1"
+			{
+				"name"		"Meltix Bold Demo"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		MeltixBold56
+		{
+			"1"
+			{
+				"name"		"Meltix Bold Demo"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
 	}
+	
+
 	
 	// Custom fonts
 	
