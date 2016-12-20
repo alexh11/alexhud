@@ -18,6 +18,9 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
+		// HUD colors
+		"AlexHUDBlack"		"0 0 0 255"
+		"AlexHUDWhite"		"255 255 255 255"
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -2931,71 +2934,71 @@ Scheme
 			}
 		}
 		
-		MeltixRegular12
+		"NordicaRegular12"
 		{
 			"1"
 			{
-				"name"		"Meltix Regular Demo"
+				"name"		"NordicaRegular"
 				"tall"		"12"
 				"antialias" "1"
 			}
 		}
 		
-		MeltixRegular16
+		"NordicaRegular16"
 		{
 			"1"
 			{
-				"name"		"Meltix Regular Demo"
+				"name"		"NordicaRegular"
 				"tall"		"16"
 				"antialias" "1"
 			}
 		}
 		
-		MeltixRegular24
+		"NordicaRegular24"
 		{
 			"1"
 			{
-				"name"		"Meltix Regular Demo"
+				"name"		"NordicaRegular"
 				"tall"		"24"
 				"antialias" "1"
 			}
 		}
 		
-		MeltixRegular32
+		"NordicaRegular32"
 		{
 			"1"
 			{
-				"name"		"Meltix Regular Demo"
+				"name"		"NordicaRegular"
 				"tall"		"32"
 				"antialias" "1"
 			}
 		}
 		
-		MeltixRegular36
+		"NordicaRegular36"
 		{
 			"1"
 			{
-				"name"		"Meltix Regular Demo"
+				"name"		"NordicaRegular"
 				"tall"		"36"
 				"antialias" "1"
 			}
 		}
 		
-		MeltixRegular42
+		"NordicaRegular42"
 		{
 			"1"
 			{
-				"name"		"Meltix Regular Demo"
+				"name"		"NordicaRegular"
 				"tall"		"42"
 				"antialias" "1"
 			}
 		}
 		
-		MeltixRegular48
+		"NordicaRegular48"
 		{
 			"1"
 			{
-				"name"		"Meltix Regular Demo"
+				"name"		"NordicaRegular"
 				"tall"		"48"
 				"antialias" "1"
 			}
@@ -3003,81 +3006,81 @@ Scheme
 		
 		// Bolds
 		
-		MeltixBold12
+		"NordicaBlack12"
 		{
 			"1"
 			{
-				"name"		"Meltix Bold Demo"
+				"name"		"NordicaBlack"
 				"tall"		"12"
 				"antialias" "1"
 			}
 		}
 		
-		MeltixBold16
+		"NordicaBlack16"
 		{
 			"1"
 			{
-				"name"		"Meltix Bold Demo"
+				"name"		"NordicaBlack"
 				"tall"		"16"
 				"antialias" "1"
 			}
 		}
 		
-		MeltixBold24
+		"NordicaBlack24"
 		{
 			"1"
 			{
-				"name"		"Meltix Bold Demo"
+				"name"		"NordicaBlack"
 				"tall"		"24"
 				"antialias" "1"
 			}
 		}
 		
-		MeltixBold32
+		"NordicaBlack32"
 		{
 			"1"
 			{
-				"name"		"Meltix Bold Demo"
+				"name"		"NordicaBlack"
 				"tall"		"32"
 				"antialias" "1"
 			}
 		}
 		
-		MeltixBold36
+		"NordicaBlack36"
 		{
 			"1"
 			{
-				"name"		"Meltix Bold Demo"
+				"name"		"NordicaBlack"
 				"tall"		"36"
 				"antialias" "1"
 			}
 		}
 		
-		MeltixBold42
+		"NordicaBlack42"
 		{
 			"1"
 			{
-				"name"		"Meltix Bold Demo"
+				"name"		"NordicaBlack"
 				"tall"		"42"
 				"antialias" "1"
 			}
 		}
 		
-		MeltixBold48
+		"NordicaBlack48"
 		{
 			"1"
 			{
-				"name"		"Meltix Bold Demo"
+				"name"		"NordicaBlack"
 				"tall"		"48"
 				"antialias" "1"
 			}
 		}
 		
-		MeltixBold56
+		"NordicaBlack56"
 		{
 			"1"
 			{
-				"name"		"Meltix Bold Demo"
+				"name"		"NordicaBlack"
 				"tall"		"56"
 				"antialias" "1"
 			}
@@ -3086,7 +3089,6 @@ Scheme
 	
 
 	
-	// Custom fonts
 	
 	
 
@@ -5619,18 +5621,18 @@ Scheme
 		}			
 		"7"
 		{
-			"font" "resource/fonts/Meltix_Bold_Demo"
-			"name" "Meltix Bold Demo"
+			"font" "resource/fonts/NordicaBlack.ttf"
+			"name" "NordicaBlack"
 		}			
 		"8"
 		{
-			"font" "resource/fonts/Meltix_Light_Demo"
-			"name" "Meltix Light Demo"
+			"font" "resource/fonts/NordicaLight.ttf"
+			"name" "NordicaLight"
 		}			
 		"9"
 		{
-			"font" "resource/fonts/Meltix_Regular_Demo"
-			"name" "Meltix Regular Demo"
+			"font" "resource/fonts/NordicaRegular.ttf"
+			"name" "NordicaRegular"
 		}			
 	}
 }
