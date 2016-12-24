@@ -5621,17 +5621,17 @@ Scheme
 		}			
 		"7"
 		{
-			"font" "resource/fonts/NordicaBlack.ttf"
+			"font" "resource/fonts/NordicaBlack.otf"
 			"name" "NordicaBlack"
 		}			
 		"8"
 		{
-			"font" "resource/fonts/NordicaLight.ttf"
-			"name" "NordicaLight"
+			"font" "resource/fonts/NordicaThin.otf"
+			"name" "NordicaThin"
 		}			
 		"9"
 		{
-			"font" "resource/fonts/NordicaRegular.ttf"
+			"font" "resource/fonts/NordicaRegular.otf"
 			"name" "NordicaRegular"
 		}			
 	}

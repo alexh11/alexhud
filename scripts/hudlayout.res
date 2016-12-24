@@ -16,10 +16,10 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c0"	[$WIN32]
-		"ypos"	"c0"	[$WIN32]
+		"xpos"	"c-80"	[$WIN32]
+		"ypos"	"c140"	[$WIN32]
 		"wide"	"250"
-		"tall"	"120"
+		"tall"	"80"
 	}
 	
 	HudObjectiveStatus
